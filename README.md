@@ -1,1 +1,1 @@
-# ino-kube
+# INO Kubernates config
